@@ -36,7 +36,6 @@ gem 'chargebee'
 gem 'actionpack-action_caching'
 
 # Space Categorization
-gem 'rseg'
 gem 'stuff-classifier', git: 'https://github.com/alexandru/stuff-classifier'
 
 group :development, :test do
